@@ -1,12 +1,9 @@
-
-
-
 # NOTE: AS OF January 16, 2020, THE DATA HAVE TO BE MOVED TO THE HTC SERVER
 # NOTE: ALL OF THE PREPEPROCESSING SCRIPTS WILL NEEED THE PATHS TO THE DATA MODIFIED.  
 
 # The purpose of this document is to explain the structure and protocol of the sleep lab Lewis Cluster Group
 
-# This document was last updated on January 16, 2020
+# This document was last checked on November 11, 2020 and should be updated. 
 
 # Author(s): Kevin McGovney, Jason Craggs 
 
